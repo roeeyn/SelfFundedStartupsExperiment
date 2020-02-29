@@ -15,6 +15,7 @@ def normalize_twitter_name(twitter_url):
     raise Exception('not valid values for Twitter Handler')
 
 
+
 # %% Work with the csv
 # data["Company name"] = data["Company name"].str.strip()
 # data["Company Twitter"] = data["Company Twitter"].apply(normalize_twitter_name)
